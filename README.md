@@ -1,11 +1,11 @@
-# Simulación Avanzada de Portafolio Analítico: E-Commerce B2C 📊✨
+# Simulación Avanzada de Portafolio Analítico: E-Commerce B2C 
 
-## 📋 Descripción del Proyecto
+##  Descripción del Proyecto
 Este proyecto implementa una infraestructura avanzada de Inteligencia de Negocios (BI) para consolidar, auditar y evaluar los resultados operacionales, comerciales y de marketing de una plataforma de comercio electrónico B2C. 
 
 A través del motor de almacenamiento **VertiPaq** y un enfoque riguroso de ingeniería de datos, se resolvió la dispersión de datos y se unificaron las fuentes en un único repositorio de verdad, automatizando el cálculo de KPIs financieros y métricas de adquisición de clientes.
 
-## 🛠️ Framework Técnico & Herramientas
+##  Framework Técnico & Herramientas
 * **Motor Analítico:** Excel Avanzado & Power Pivot (Motor VertiPaq).
 * **Modelado de Datos:** Arquitectura en Estrella (Star Schema) con relaciones 1:N validadas.
 * **Lenguaje de Consultas / Cálculos:** DAX Estructurado (Data Analysis Expressions).
@@ -22,7 +22,7 @@ Uno de los mayores desafíos del proyecto fue el rediseño radical de la arquite
 
 ---
 
-## 📈 KPIs y Resultados de Negocio Clave
+##  KPIs y Resultados de Negocio Clave
 
 * **Ingresos Totales Brutos:** \$26,095 USD
 * **EBITDA Consolidado:** \$2,533 USD
@@ -34,14 +34,14 @@ Uno de los mayores desafíos del proyecto fue el rediseño radical de la arquite
 * **Moda y Hogar:** Comportamiento financiero balanceado, rotación constante y sostén del flujo de caja.
 * **Deportes:** Categoría de nicho. Baja facturación pero con un retorno porcentual unitario muy atractivo.
 
-### 📣 Eficiencia de Canales de Marketing
+###  Eficiencia de Canales de Marketing
 * **Facebook Ads & Influencers:** Máxima retención y valor de vida del cliente (LTV elevado).
 * **Orgánico (SEO/Directo):** CAC de \$0.00 USD, lo que empuja el ROI conceptualmente al infinito e inyecta margen limpio.
 * **Google Ads:** Comportamiento lineal y predictivo, ideal para estabilizar proyecciones.
 
 ---
 
-## 🚀 Recomendaciones Estratégicas Implementadas
+##  Recomendaciones Estratégicas Implementadas
 * **Marketing:** Reasignación presupuestaria inmediata (incremento del 15% a Facebook Ads e Influencers) y blindaje de la estrategia SEO.
 * **Comercial:** Asegurar stock en Tecnología y diseñar una estrategia de *cross-selling* (empaquetado) para la categoría Deportes junto a artículos de alta rotación de Hogar y Moda.
 * **Gobernanza de Datos:** Establecer como política que cualquier métrica nueva respete el modelo en estrella implementado para evitar futuras duplicidades.
