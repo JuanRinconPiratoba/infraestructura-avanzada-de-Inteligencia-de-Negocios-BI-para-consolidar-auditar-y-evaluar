@@ -13,7 +13,7 @@ A través del motor de almacenamiento **VertiPaq** y un enfoque riguroso de inge
 
 ---
 
-## 📐 Arquitectura de Datos e Ingeniería Solucionada
+##  Arquitectura de Datos e Ingeniería Solucionada
 
 Uno de los mayores desafíos del proyecto fue el rediseño radical de la arquitectura de la base de datos debido a dos anomalías críticas identificadas durante la fase de auditoría:
 
