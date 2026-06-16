@@ -1,7 +1,7 @@
-# Simulación Avanzada de Portafolio Analítico: E-Commerce B2C 
+# Portafolio Analítico: E-Commerce B2C 
 
 ##  Descripción del Proyecto
-Este proyecto implementa una infraestructura avanzada de Inteligencia de Negocios (BI) para consolidar, auditar y evaluar los resultados operacionales, comerciales y de marketing de una plataforma de comercio electrónico B2C. 
+Este proyecto implementa una infraetructura avanzada de Inteligencia de Negocios (BI) para consolidar, auditar y evaluar los resultados operacionales, comerciales y de marketing de una plataforma de comercio electrónico B2C. 
 
 A través del motor de almacenamiento **VertiPaq** y un enfoque riguroso de ingeniería de datos, se resolvió la dispersión de datos y se unificaron las fuentes en un único repositorio de verdad, automatizando el cálculo de KPIs financieros y métricas de adquisición de clientes.
 
